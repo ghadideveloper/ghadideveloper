@@ -1,7 +1,7 @@
 #  Hi, I'm Ghadi! (ghadideveloper)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=iOS+%26+Software+Engineer;SwiftUI+%26+UIKit+Developer;Passionate+Problem+Solver;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=iOS+%26+Software+Engineer;SwiftUI+%26+Developer;Passionate+Problem+Solver;Always+Learning+%26+Building" alt="Typing SVG" />
 </div>
 
 #  About Me:
