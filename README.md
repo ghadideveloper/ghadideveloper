@@ -18,10 +18,3 @@ Software Engineer and iOS Developer passionate about building high-quality, seam
 ![](https://streak-stats.demolab.com/?user=ghadideveloper\&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ghadideveloper\&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ghadideveloper\&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=ghadideveloper\&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
